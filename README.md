@@ -7,6 +7,8 @@ Game's concept is based on sandbox FPS games, similar to FarCry series.
 In this world, you will be able to explore the cold region of the North lands.
 Discover forgotten places, fight with enemies and try to survive.
 
+Link to project package -> https://drive.google.com/file/d/1_0Ov3ZCMUijBSYHSZNyQnh9qzC3pfduk/view?usp=sharing
+
 *Project is just a concept. You may find here basic mechanics, of the FPS.
 - You can move in a small area, deep in the forest
 - Two types of enemies, weak and strong
